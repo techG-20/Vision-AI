@@ -2,12 +2,6 @@
 
 A modular computer vision and AI toolkit built using OpenCV and NumPy. This repository contains implementations of detection, tracking, and feature extraction pipelines designed for real-time and experimental applications.
 
----
-
-# Vision AI
-
-A computer vision and AI toolkit built with OpenCV and NumPy for detection, tracking, and visual processing.
-
 ##  Features
 
 * Detection and tracking
